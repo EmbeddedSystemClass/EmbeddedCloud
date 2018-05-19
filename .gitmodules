@@ -1,0 +1,3 @@
+[submodule "SkiffOS"]
+	path = SkiffOS
+	url = https://github.com/paralin/SkiffOS.git
